@@ -1,3 +1,7 @@
+#Pics
+
+A simple web app that shows users pictures of what users input.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
